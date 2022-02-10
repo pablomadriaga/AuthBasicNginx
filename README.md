@@ -2,6 +2,6 @@
 Copiar estos archivos en segun se indica
 
 
-nginx.conf     ==>>   /etc/nginx/nginx.conf
-default.conf   ==>>   /etc/nginx/conf.d/default.conf
-.htpasswd      ==>>   /etc/nginx/.htpasswd
+nginx.conf     ==>>   /etc/nginx/nginx.conf <br /> 
+default.conf   ==>>   /etc/nginx/conf.d/default.conf <br /> 
+.htpasswd      ==>>   /etc/nginx/.htpasswd <br /> 
